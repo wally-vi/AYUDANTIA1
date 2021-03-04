@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.18",
+    "nodemon": "^2.0.7"
+  },
+  "name": "ayudantia1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "walter",
+  "license": "MIT",
+  "description": "tarea de ayudantia seminario de sistemas",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wally-vi/AYUDANTIA1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wally-vi/AYUDANTIA1/issues"
+  },
+  "homepage": "https://github.com/wally-vi/AYUDANTIA1#readme"
+}
